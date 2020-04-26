@@ -1,0 +1,33 @@
+Git is a version control helps to keep track of ones project versions and act as synchronize. 
+
+*creating a new repository in local machine*
+
+              		  git clone <link of git repository>
+
+
+*To add file into GitHub *
+			  git add . (adds all files present in that directory into github)
+			  git add <filename.txt> (adds only filename.txt file)
+
+*Git commit*
+			  git commit -m "message"
+
+*Git push*
+			  git push 
+
+*Git status*
+ 			  git status
+
+*Git log*
+
+ 			  git log
+
+*Git reset*
+
+			 git reset --hard commidID
+			 git reset --hard origin/master
+
+
+
+
+
