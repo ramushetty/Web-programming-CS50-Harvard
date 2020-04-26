@@ -26,6 +26,8 @@ Git is a version control helps to keep track of ones project versions and act as
 
 			 git reset --hard commidID
 			 git reset --hard origin/master
+*Git pull*
+  			 git pull
 
 
 
