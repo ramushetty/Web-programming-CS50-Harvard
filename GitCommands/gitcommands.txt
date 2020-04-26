@@ -7,6 +7,7 @@ Git is a version control helps to keep track of ones project versions and act as
 
 *To add file into GitHub *
 			  git add . (adds all files present in that directory into github)
+
 			  git add <filename.txt> (adds only filename.txt file)
 
 *Git commit*
